@@ -16,3 +16,4 @@
  <li>Filtra unidades por período de funcionamento.</li>
 </ul>
 
+<img src="https://github.com/MatiasTSX/smartfit-frontend-challenge/blob/main/src/assets/images/Captura%20de%20Tela%20(6).png">
